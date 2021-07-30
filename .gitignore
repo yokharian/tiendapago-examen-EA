@@ -1,3 +1,20 @@
+# .idea
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/tiendapago-examen-EA.iml
+/.idea/vcs.xml
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+/.idea/workspace.xml
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
