@@ -1,0 +1,19 @@
+1. Lupita y Paco escriben a un ritmo constante de 80 palabras por minuto y 60 palabras por minuto,
+respectivamente. Paco comienza a escribir antes de Lupita y ha escrito 600 palabras cuando
+Lupita comienza a escribir a la 1:30 p.m. Si continúan escribiendo a sus respectivas tasas,
+¿a qué hora Lupita habrá escrito exactamente 200 palabras más que Paco? *"""
+
+lupita_speed = 80
+paco_speed = 60
+
+1:30 paco tiene 600 palabras
+2:00 ya se han empatado
+2:10 lupita tiene 200 palabras mas que paco
+
+lupita_velocidad * tiempo_escribiendo = palabras escritas
+
+lupita_velocidad * tiempo_escribiendo = paco_velocidad * tiempo_escribiendo2
+80 * tiempo_escribiendo = 60 * tiempo_escribiendo_paco
+20 * tiempo_escribiendo = tiempo_escribiendo_paco
+
+cada minuto lupita escribe 20 palabras mas que paco
